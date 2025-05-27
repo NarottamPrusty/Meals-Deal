@@ -42,5 +42,5 @@ A secure and scalable backend RESTful API built with Spring Boot to power a food
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/meals-deal-backend.git
-   cd meals-deal-backend
+   git clone https://github.com/NarottamPrusty/Meals Deal.git
+   cd Meals Deal
