@@ -34,13 +34,13 @@ Delivered a smooth, secure, and scalable backend that enables full functionality
 
 ## 🛠️ Tech Stack
 
-| Layer         | Technology                      |
-|---------------|----------------------------------|
+| Layer         | Technology                         |
+|---------------|-------------------------------------|
 | Backend       | Java, Spring Boot, Spring Security |
-| Database      | H2 / PostgreSQL                 |
-| Security      | JWT (JSON Web Token)            |
-| Documentation | Swagger / OpenAPI               |
-| Build Tool    | Maven                           |
+| Database      | H2 / PostgreSQL                    |
+| Security      | JWT (JSON Web Token)               |
+| Documentation | Swagger / OpenAPI                  |
+| Build Tool    | **Gradle**                         |
 
 ---
 
@@ -48,7 +48,7 @@ Delivered a smooth, secure, and scalable backend that enables full functionality
 
 ### Prerequisites:
 - Java 17+
-- Maven
+- Gradle
 - PostgreSQL (if using instead of H2)
 
 ### Steps:
